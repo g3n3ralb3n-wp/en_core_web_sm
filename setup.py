@@ -1,7 +1,7 @@
 from distutils.core import setup
 setup(
-  name = 'en_core_web_sm-2.1.0',         # How you named your package folder (MyLib)
-  packages = ['en_core_web_sm-2.1.0'],   # Chose the same as "name"
+  name = 'en_core_web_sm',         # How you named your package folder (MyLib)
+  packages = ['en_core_web_sm'],   # Chose the same as "name"
   version = '0.1',      # Start with a small number and increase it with every change you make
   license='MIT',        # Chose a license from here: https://help.github.com/articles/licensing-a-repository
   description = 'small dictionary for spacy',   # Give a short description about your library
